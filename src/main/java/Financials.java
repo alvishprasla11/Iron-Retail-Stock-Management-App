@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Financials {
-    private static final String DATABASE_URL = IronInventoryManagementApp.DATABASE_URL;
     private static String selectedMonth;
     public static void createFinancialsFrame() {
         JFrame financialsFrame = createFrame("Financials", 500, 500);

@@ -1,7 +1,14 @@
 
-import java.awt.*;
+import java.awt.GraphicsDevice;
+import java.awt.GraphicsEnvironment;
+import java.awt.GridLayout;
+import java.awt.Rectangle;
 import java.awt.event.ActionListener;
-import javax.swing.*;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
 
 public class IronInventoryManagementApp {
     public static final String DATABASE_URL = "jdbc:sqlite:/Users/alvishprasla/VS_Code/Java/StockMangement/Series/data/inventory24.db";

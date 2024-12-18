@@ -6,8 +6,6 @@ import java.sql.Statement;
 
 
 public class Database {
-    private static final String DATABASE_URL = "jdbc:sqlite:/Users/alvishprasla/VS_Code/Java/StockMangement/Series/inventory.db";
-
     public static Connection connect() {
         try {
             Class.forName("org.sqlite.JDBC"); // Ensure the driver is loaded

@@ -1,24 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
-import java.sql.*;
-import java.util.*;
-import java.util.List;
-import javax.print.PrintService;
-import javax.print.PrintServiceLookup;
-import javax.print.attribute.HashPrintRequestAttributeSet;
-import javax.print.attribute.PrintRequestAttributeSet;
-import javax.print.attribute.standard.OrientationRequested;
-import java.awt.print.PageFormat;
-import java.awt.print.PrinterException;
-import java.awt.print.PrinterJob;
-import java.text.MessageFormat;
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.time.YearMonth;
-import java.time.format.DateTimeFormatter;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
