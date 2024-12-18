@@ -4,10 +4,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.print.*;
 import java.sql.*;
-import java.util.Calendar;
-import java.util.Locale;
-import java.time.YearMonth;
-import java.time.format.DateTimeFormatter;
 
 public class BalanceSheet {
     private static JTextArea balanceSheetTextArea;
