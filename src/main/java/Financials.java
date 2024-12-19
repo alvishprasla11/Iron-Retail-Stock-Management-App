@@ -57,8 +57,8 @@ public class Financials {
     }
 
     private static void handleContinueButtonClick(JComboBox<String> monthComboBox,JComboBox<String> yearComboBox, JTextField userID, JTextField password) {
-        String UserID1 = "NEW STEEL SYNDICATE";
-        String Password1 = "TAJDIN";
+        String UserID1 = "USER ID";
+        String Password1 = "PASSWORD";
 
         String enteredUserID = userID.getText();
         String enteredPassword = password.getText();
