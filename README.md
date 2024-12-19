@@ -35,12 +35,12 @@ To get this project running locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/iron-retail-stock-management.git
+    git clone https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses.git
     ```
    
 2. Navigate to the project directory:
     ```bash
-    cd iron-retail-stock-management
+    cd StockManagementSoftwareForIronRetailBusinesses
     ```
 
 3. Build the project with Maven:
@@ -50,7 +50,7 @@ To get this project running locally, follow these steps:
 
 4. Run the application:
     ```bash
-    java -jar target/StockManagement-1.0-SNAPSHOT-jar-with-dependencies.jar
+    java -jar target/StockManagement-1.0-SNAPSHOT.jar
     ```
 
 5. The app will launch, and you can start managing your stock!
