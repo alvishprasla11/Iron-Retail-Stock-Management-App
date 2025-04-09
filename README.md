@@ -50,7 +50,7 @@ To get this project running locally, follow these steps:
 
 4. Run the application:
     ```bash
-    java -jar target/StockManagement-1.0-SNAPSHOT.jar
+    java -jar target/StockManagement-1.0-SNAPSHOT-jar-with-dependencies.jar
     ```
 
 5. The app will launch, and you can start managing your stock!
